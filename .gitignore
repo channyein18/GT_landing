@@ -1,0 +1,31 @@
+# Dependencies and local npm cache
+site/node_modules/
+site/.npm-cache/
+site/.npmrc
+site/AGENTS.md
+
+# Generated builds and local artifacts
+site/dist/
+output/
+tmp/
+
+# Original working copies duplicated in site/public
+/assets/
+
+# Unused source variants retained locally
+site/public/assets/customer-*.avif
+site/public/assets/customer-[5-9].png
+site/public/assets/customer-10.png
+site/public/assets/customer-3[0-5].png
+site/public/assets/greattime-dashboard.png
+site/public/assets/greattime-logo.png
+
+# Operating system and editor files
+.DS_Store
+*.swp
+*.swo
+
+# Local environment files
+.env
+.env.*
+!.env.example
