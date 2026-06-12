@@ -3,6 +3,7 @@ site/node_modules/
 site/.npm-cache/
 site/.npmrc
 site/AGENTS.md
+site/.wrangler/
 
 # Generated builds and local artifacts
 site/dist/
