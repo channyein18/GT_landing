@@ -289,8 +289,8 @@ export function App() {
               <a href="mailto:hello@greattime.app">
                 <Envelope size={21} /> hello@greattime.app
               </a>
-              <a href="tel:123456">
-                <Phone size={21} /> 123456
+              <a href="tel:09966988988">
+                <Phone size={21} /> 09966988988
               </a>
               <span>
                 <MapPin size={21} /> 133 Thirimingalar Street, Mayangone,
